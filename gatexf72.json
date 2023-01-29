@@ -77,29 +77,29 @@
             }
         ]
     },
-    "xiaofeng415": {
+    "xiaofeng815": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
+        "isToPage": true,
         "adjustParams": [
             {
                 "name": "deposit-success",
-                "value": "69xkx7"
+                "value": "68tgz7"
             },
             {
                 "name": "signup-success",
-                "value": "42esu5"
+                "value": "2f2mcc"
             },
             {
                 "name": "first-deposit-success",
-                "value": "7u4d00"
+                "value": "ql9amf"
             },
             {
-                "name": "adj_complete_registration",
-                "value": "t1v3t4"
+                "name": "register-success",
+                "value": "mbmb03"
             },
             {
-                "name": "adj_purchase1",
-                "value": "6wl7cs"
+                "name": "first-recharge-success",
+                "value": "q9knyu"
             }
         ]
     },
